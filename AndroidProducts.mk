@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_WP15.mk
+    $(LOCAL_DIR)/twrp_WP15.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_WP15-user \
-    omni_WP15-userdebug \
-    omni_WP15-eng
+    twrp_WP15-user \
+    twrp_WP15-userdebug \
+    twrp_WP15-eng
